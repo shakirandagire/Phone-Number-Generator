@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GetRandomPhoneComponent should render properly 1`] = `ShallowWrapper {}`;
+
+exports[`GetRandomPhoneNumbers Component should render properly 1`] = `ShallowWrapper {}`;
+
+exports[`Number Component should render properly 1`] = `ShallowWrapper {}`;
+
+exports[`NumberGenerator Component should render properly 1`] = `ShallowWrapper {}`;
+
+exports[`NumberGeneratorInput Component should render properly 1`] = `ShallowWrapper {}`;
+
+exports[`NumberGeneratorInput Component should render properly 2`] = `ShallowWrapper {}`;
+
+exports[`NumberGeneratorInput Component should render properly 3`] = `ShallowWrapper {}`;
+
+exports[`NumberGeneratorInput Component should render properly 4`] = `ShallowWrapper {}`;
+
+exports[`PhoneGenerator Component should render properly 1`] = `ShallowWrapper {}`;
+
+exports[`ShowPhone Component should render properly 1`] = `ShallowWrapper {}`;
+
+exports[`ShowPhoneNum ber Component should render properly 1`] = `ShallowWrapper {}`;
+
+exports[`ShowPhoneNumbers Component should render properly 1`] = `ShallowWrapper {}`;
+
+exports[`Sort Component should render properly 1`] = `ShallowWrapper {}`;
+
+exports[`SortPhoneNumbers Component should render properly 1`] = `ShallowWrapper {}`;

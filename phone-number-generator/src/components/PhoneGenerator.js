@@ -1,4 +1,4 @@
-import React, { Component, Fragment } from 'react';
+import React, { Component } from 'react';
 import NumberGeneratorInput from './NumberGeneratorInput';
 import SortPhoneNumbers from './SortPhoneNumbers';
 import ShowPhonesNumbers from './ShowPhonesNumbers';
@@ -104,7 +104,7 @@ class PhoneGenerator extends Component {
               maximum={maximum}
               total={total}
             />
-            
+
             <SortPhoneNumbers
               phoneNumbers={phoneNumbers}
               onChange={this.handleOnSortingChange}
