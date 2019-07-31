@@ -30,3 +30,6 @@ You can now access the application using the browser on http://localhost:3000
 
 4. Sorting the phone numbers
 ![Sort](https://user-images.githubusercontent.com/6957960/62206104-b89a5100-b399-11e9-96d1-28ab6a5fb658.png)
+ 
+# Testing
+`npm test`
